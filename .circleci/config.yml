@@ -8,7 +8,7 @@ jobs:
     executor: ci-executor
     steps:
       - checkout
-d
+
 
       - run:
           name: build dependencies
